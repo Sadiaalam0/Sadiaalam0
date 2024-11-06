@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things...
 - 🌱 I’m currently learning statistics 
 - 💞️ I’m looking to collaborate on anything that I can learn
-- 📫 How to reach me through email
+- 📫  reach me through email
 - 😄 Pronouns : 💅🏼
 - ⚡ Fun fact: i don't know anything about github
 <!---
