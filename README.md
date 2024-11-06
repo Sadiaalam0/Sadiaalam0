@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning new things...
 - 🌱 I’m currently learning statistics 
 - 💞️ I’m looking to collaborate on anything that I can learn
-- 📫 How to reach me 
-- 😄 Pronouns:s
+- 📫 How to reach me through email
+- 😄 Pronouns : 💅🏼
 - ⚡ Fun fact: i don't know anything about github
 <!---
 Sadiaalam0/Sadiaalam0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
